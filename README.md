@@ -27,7 +27,9 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 <img src="pink-chaos-grenade.png" width="300">
 </div>
 <br>
-- 🐐 [NEW FROM PHIL HINE! Delinquent Elementals Out Now (Mar 25, 2025)](https://enfolding.org/out-now-delinquent-elementals/)
+<ul>
+  <li>🐐 <a href="https://enfolding.org/out-now-delinquent-elementals/">NEW FROM PHIL HINE! Delinquent Elementals Out Now (Mar 25, 2025)</a></li>
+</ul>
 
 ---
 
