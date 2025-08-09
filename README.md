@@ -77,54 +77,24 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
   
 ---
 
-<style>
-.archive-credit {
-  font-family: 'Courier New', Courier, monospace;
-  text-align: center;
-  max-width: 600px;
-  margin: 40px auto;
-  line-height: 1.6;
-}
+## KSC Discordian Magick Archive
+**with TRANSLATIONS & NOTES by**  
+Keeper of Sacred Chaos (KSC)  
 
-.archive-credit h2 {
-  font-size: 2em;
-  margin-bottom: 0.5em;
-}
+Assembled by His Obliqueness the Rev DrKSC  
+on behalf of  
+The Committee for Uncontrolled Reality Manipulation  
 
-.archive-credit blockquote {
-  font-style: italic;
-  margin: 1em auto;
-  color: #333;
-}
+---
 
-.archive-credit hr {
-  margin: 2em auto;
-  width: 60%;
-}
-</style>
+**Approved for misuse in magical circles**
 
-<div class="archive-credit">
-  <hr>
-  <h2>KSC Discordian Magick Archive</h2>
-  <p><strong>with TRANSLATIONS & NOTES by</strong><br>
-  Keeper of Sacred Chaos (KSC)</p>
+> Give me your chaos, your satire,  
+> Your weird masses yearning to hex free,  
+> The blessed refuse of your sigil-stained shrines —  
+> This Archive always needs more paradox.  
 
-  <p>Assembled by His Obliqueness the Rev DrKSC<br>
-  on behalf of<br>
-  The Committee for Uncontrolled Reality Manipulation</p>
+**HAIL ERIS! – καλλιχᾰ – ALL HAIL DISCORDIA!**
 
-  <hr>
-  <p><strong>Approved for misuse in magical circles</strong></p>
-
-  <blockquote>
-    Give me your chaos, your satire,<br>
-    Your weird masses yearning to hex free,<br>
-    The blessed refuse of your sigil-stained shrines —<br>
-    This Archive always needs more paradox.
-  </blockquote>
-
-  <p><strong>HAIL ERIS! – καλλιχᾰ – ALL HAIL DISCORDIA!</strong></p>
-
-  <p>(K) 2025 ALL RITES REVERSED<br>
-  REPRINT WHAT YOU LIKE, REMIX WHAT YOU CAN’T</p>
-</div>
+(K) 2025 ALL RITES REVERSED  
+REPRINT WHAT YOU LIKE, REMIX WHAT YOU CAN’T
