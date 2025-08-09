@@ -51,7 +51,7 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 This project is based on the ideas in Phil Hine’s *Prime Chaos*, focusing on the philosophy, practice, and history of Discordianism.  
 Our aim is to introduce, translate, and develop these concepts in Japanese.
 
-- [Art Magick (DKMU & others)](artist_magic.md)
+- [Art Magick (DKMU & others)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/artist_magic_jp.md)
 - [POP MAGIC! (Grant Morrison)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
 
 ---
