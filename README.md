@@ -13,6 +13,7 @@ This page is maintained by ravensgate (KSC) a.k.a. *Le Sorcier Inconnu*.
 <br>
 
 <div align="right">
+  This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.
 <a href="https://github.com/ravensgate-tux/spareA-spareB/blob/main/README.md">
 KSC氏の最新の論文（英語）「スペアって2人居るんじゃないの？(Spare A vs Spare B 仮説)」はこちら
 </a>
