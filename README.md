@@ -33,6 +33,16 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 
 ---
 
+## What is Discordianism?
+- A modern parody religion centered around chaos and humor
+- Worship of Eris, goddess of chaos and strife
+- Encourages free thought, satire, and playful subversion
+- Connects with wider countercultural and magical traditions
+
+[More about Discordianism & Hine’s “Oven-Ready Chaos”](link_here)
+
+---
+
 ## Core Concept
 This project is based on the ideas in Phil Hine’s *Prime Chaos*, focusing on the philosophy, practice, and history of Discordianism.  
 Our aim is to introduce, translate, and develop these concepts in Japanese.
@@ -41,16 +51,6 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
 - **Discordianism** (*Prime Chaos*)
 - **Art Magick** (DKMU & others)
 - **POP MAGIC!** (Grant Morrison)
-
----
-
-## What is Discordianism?
-- A modern parody religion centered around chaos and humor
-- Worship of Eris, goddess of chaos and strife
-- Encourages free thought, satire, and playful subversion
-- Connects with wider countercultural and magical traditions
-
-[More about Discordianism & Hine’s “Oven-Ready Chaos”](link_here)
 
 ---
 
