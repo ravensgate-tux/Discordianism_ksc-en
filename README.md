@@ -62,7 +62,7 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
 ## Other Resources
 
 <ul>
-  <li>🐐 <a href="https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93">OVEN-READY CHAOS</a></li>
+  <li>🐐 <a href="https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93">OVEN-READY CHAOS (Phil Hine)</a></li>
 </ul>
 
 - [Earth Inferno](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
