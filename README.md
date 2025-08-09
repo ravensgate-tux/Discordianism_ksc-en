@@ -77,21 +77,9 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
   
 ---
 
-## Planned Structure (Directory Outline)
+---
 
-```
-.
-├── POEE/              # Sermons, rituals, and documents
-│   ├── sermons.md
-│   ├── glossary.md
-│   ├── rituals/
-│   │   ├── intro.md
-│   │   ├── pentarite.ritual.md
-│   │   └── sanitizer.ritual.md
-│   └── events/        # Discordian events and activities
-├── KSC/               # Keeper-specific archives and materials
-├── library/           # Related documents, essays, and references
-│   ├── intro.md
-│   └── recommended.md
-└── archive/           # Older projects and translations
-```
+**Maintained by:** ravensgate (KSC) a.k.a. *Le Sorcier Inconnu*  
+**Contact:** [ravensgate2025@gmail.com]  
+**Translations & Notes:** © KSC, all rights reserved unless otherwise stated.  
+**Attributions:** All quoted works and images remain the property of their respective copyright holders.
