@@ -5,6 +5,17 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 
 > "The jest is true, the truth's a jest — and all the rest's a lovely mess." — Discordian maxim
 
+<div align="right">
+<img src="ksc.png" width="150">
+</div>
+<br>
+
+<div align="right">
+<a href="https://github.com/ravensgate-tux/spareA-spareB/blob/main/README.md">
+KSC氏の最新の論文（英語）「スペアって2人居るんじゃないの？(Spare A vs Spare B 仮説)」はこちら
+</a>
+</div>
+
 ---
 
 ## 📡 Latest News
