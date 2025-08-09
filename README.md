@@ -13,7 +13,7 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 <div align="right">
   This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.<br>
 <a href="https://github.com/ravensgate-tux/spareA-spareB/blob/main/README.md">
-KSC氏の最新の論文（英語）「スペアって2人居るんじゃないの？(Spare A vs Spare B 仮説)」はこちら
+👉 Spare A vs Spare B: Investigating a Divided Legacy (English)
 </a>
 </div>
 
