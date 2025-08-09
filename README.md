@@ -15,7 +15,6 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 <img src="pink-chaos-grenade.png" width="300">
 </div>
 <br>
-
 ---
 
 ## Core Concept
