@@ -53,6 +53,7 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
 
 - [Art Magick (DKMU & others)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/artist_magic_jp.md)
 - [POP MAGIC! (Grant Morrison)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
+- [Aspects of Evocation (Phil Hine)](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)
 
 ---
 
