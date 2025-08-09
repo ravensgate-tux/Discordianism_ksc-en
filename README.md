@@ -65,11 +65,11 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
   <li>🐐 <a href="https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93">OVEN-READY CHAOS</a></li>
 </ul>
 
-- [Aspects of Evocation (Phil Hine)](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)
-- [Modern Shamanism vol.1 (Phil Hine)](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)
-- [Art Magick (DKMU & others)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/artist_magic_jp.md)
-- [POP MAGIC! (Grant Morrison)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
-- [BATMAN R.I.P. (Grant Morrison)](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
+- [Earth Inferno](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
+- [A Book of Satyrs](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
+- [The Book of Pleasure](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
+- [The Focus of Life](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md)
+- [Anathema of Zos](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
   
 ---
 
