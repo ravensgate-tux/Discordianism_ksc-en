@@ -32,7 +32,7 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 </ul>
 
 <div align="center">
-<img src="book1.jpg" width="300">
+<img src="book1.jpg" width="150">
 </div>
 
 ---
