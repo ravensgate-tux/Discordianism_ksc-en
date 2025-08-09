@@ -38,9 +38,8 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 - Worship of Eris, goddess of chaos and strife
 - Encourages free thought, satire, and playful subversion
 - Connects with wider countercultural and magical traditions
-
 <ul>
-  <li>🐐 <a href="[https://enfolding.org/out-now-delinquent-elementals/](https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93%203)">ディスコーディアばんざい！</a></li>
+  <li>🐐 <a href="https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93%203">ディスコーディアばんざい！</a></li>
 </ul>
 
 ---
