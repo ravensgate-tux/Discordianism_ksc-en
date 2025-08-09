@@ -39,10 +39,10 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 - Encourages free thought, satire, and playful subversion
 - Connects with wider countercultural and magical traditions
 <ul>
-  <li>🐐 <a href="https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93%203">ALL Hail Discordia! (OVEN-READY CHAOS)</a></li>
+  <li>🐐 <a href="https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93%203">ALL Hail Discordia! (OVEN-READY CHAOS) - existing translation by others</a></li>
 </ul>
 <ul>
-  <li>🌀 <a href="https://en.wikipedia.org/wiki/Principia_Discordia">Principia Discordia (Wiki)</a></li>
+  <li>🌀 <a href="https://en.wikipedia.org/wiki/Principia_Discordia">Principia Discordia (Wiki) English</a></li>
 </ul>
 
 ---
@@ -51,11 +51,11 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 This project is based on the ideas in Phil Hine’s *Prime Chaos*, focusing on the philosophy, practice, and history of Discordianism.  
 Our aim is to introduce, translate, and develop these concepts in Japanese.
 
-- [Aspects of Evocation (Phil Hine)](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)
-- [Modern Shamanism vol.1 (Phil Hine)](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)
-- [Art Magick (DKMU & others)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/artist_magic_jp.md)
-- [POP MAGIC! (Grant Morrison)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
-- [BATMAN R.I.P. (Grant Morrison)](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
+- [Aspects of Evocation (Phil Hine) - translations and notes by KSC](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)
+- [Modern Shamanism vol.1 (Phil Hine) - translations and notes by KSC](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)
+- [Art Magick (DKMU & others) - translations and notes by KSC](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/artist_magic_jp.md)
+- [POP MAGIC! (Grant Morrison) - translations and notes by KSC](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
+- [BATMAN R.I.P. (Grant Morrison) - translations and notes by KSC](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
 
 ---
 
