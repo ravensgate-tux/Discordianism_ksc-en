@@ -3,7 +3,7 @@
 Welcome to the "Discordian Magick Archive", a repository inspired by the spirit of Eris and POEE.  
 Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharing Discordian ideas and practices.  
 
-> "The jest is true, the truth's a jest — and all the rest's a lovely mess." — Discordian maxim
+> "The jest is true, the truth's a jest — and all the rest's a lovely mess." — Discordian maxim by KSC
 
 <div align="right">
 <img src="ksc.png" width="150">
