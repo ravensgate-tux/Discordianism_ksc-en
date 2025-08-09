@@ -10,7 +10,7 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 ## 📡 Latest News
 
 - [🐜 HEX THE PESTS! Spare’s Sigils in Your Spray Bottle（August 7, 2025）](2025-08-07_sigil_spray.md)
-- ピンクのケイオスグレネードが発表される （July 29, 2025）
+- 🍎 PINK PERIL! Chaos Grenade Goes Public (July 29, 2025)
 <div align="left">
 <img src="pink-chaos-grenade.png" width="300">
 </div>
