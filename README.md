@@ -35,7 +35,7 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 
 ## What is Discordianism?
 - A modern parody religion centered around chaos and humor
-- Worship of Eris, goddess of chaos and strife
+- Worship of Eris 🍏, goddess of chaos and strife
 - Encourages free thought, satire, and playful subversion
 - Connects with wider countercultural and magical traditions
 <ul>
