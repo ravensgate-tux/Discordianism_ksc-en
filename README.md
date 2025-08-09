@@ -64,7 +64,11 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
 <ul>
   <li>🐐 <a href="https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93">OVEN-READY CHAOS (Phil Hine) - existing translation by others</a></li>
 </ul>
-- 🐐 [Ganesha morphing (Phil Hine) - translated and notes by KSC](https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md)
+
+<ul>
+  <li>🐐 <a href="https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md">Ganesha morphing (Phil Hine) - translated and notes by KSC</a></li>
+</ul>
+
 - [Earth Inferno (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
 - [A Book of Satyrs (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
 - [The Book of Pleasure (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
