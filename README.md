@@ -7,8 +7,9 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 
 ---
 
-## Latest News
-- Insect repellent spray found using Spare's sigil (Aug 7, 2025)
+##　📡　Latest News
+
+- [🐜 HEX THE PESTS! Spare’s Sigils in Your Spray Bottle（August 7, 2025）](2025-08-07_sigil_spray.md)
 
 ---
 
