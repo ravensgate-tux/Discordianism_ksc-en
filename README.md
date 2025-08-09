@@ -55,7 +55,7 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
 - [Modern Shamanism vol.1 (Phil Hine)](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)
 - [Art Magick (DKMU & others)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/artist_magic_jp.md)
 - [POP MAGIC! (Grant Morrison)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
-- [Batman R.I.P. (Grant Morrison)](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
+- [BATMAN R.I.P. (Grant Morrison)](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
   
 ---
 
