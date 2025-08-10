@@ -21,7 +21,7 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 ---
 
 ## 📡 Latest News
-
+- [🍏 Erisian Banishing Ritual （August 7, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/erisian_banishing_ritual.md)
 - [🐜 HEX THE PESTS! Spare’s Sigils in Your Spray Bottle（August 7, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/2025-08-07_sigil_spray.md)
 - 🍎 PINK PERIL! Chaos Grenade Goes Public (July 29, 2025)
 <div align="center">
