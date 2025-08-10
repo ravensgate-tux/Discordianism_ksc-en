@@ -21,6 +21,7 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 ---
 
 ## 📡 Latest News
+- [🍏 Apple Melting Contemplation of Eris（August 10, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/apple_melting_contemplation_of_eris.md)
 - [🍏 Apple Contemplation of Eris（August 9, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/discordian_apple_contemplation.md)
 - [🍏 Erisian Banishing Ritual （August 8, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/erisian_banishing_ritual.md)
 - [🐜 HEX THE PESTS! Spare’s Sigils in Your Spray Bottle（August 7, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/2025-08-07_sigil_spray.md)
