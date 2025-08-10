@@ -80,6 +80,11 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
   
 ---
 
+<div align="center">
+<img src="eris-apple.png" width="300">
+</div>
+<br>
+
 ## KSC Discordian Magick Archive
 **with TRANSLATIONS & NOTES by**  
 Keeper of Sacred Chaos (KSC)  
