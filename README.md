@@ -43,10 +43,10 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 - Encourages free thought, satire, and playful subversion
 - Connects with wider countercultural and magical traditions
 <ul>
-  <li>🐐 <a href="https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93%203">ALL Hail Discordia! (OVEN-READY CHAOS) - existing translation by others</a></li>
-  
+- <li>🐐 <a href="https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93%203">ALL Hail Discordia! (OVEN-READY CHAOS) - existing translation by others</a></li>
+</ul>
 <ul>
-<li>🌀 <a href="https://www-principiadiscordia-com.translate.goog/book/1.php?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=wapp">Principia Discordia (official) - 🇯🇵 Google trandlation</a></li>
+- <li>🌀 <a href="https://www-principiadiscordia-com.translate.goog/book/1.php?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=wapp">Principia Discordia (official) - 🇯🇵 Google trandlation</a></li>
 </ul>
 
 ---
