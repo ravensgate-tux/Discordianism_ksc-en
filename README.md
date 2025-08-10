@@ -1,5 +1,6 @@
 # Discordian Magick Archive 🇬🇧/🇯🇵
 
+[Japanese site is here!🇯🇵](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)<br>
 Welcome to the "Discordian Magick Archive", a repository inspired by the spirit of Eris and POEE.  
 Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharing Discordian ideas and practices.  
 
