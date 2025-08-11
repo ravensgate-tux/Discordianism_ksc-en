@@ -21,6 +21,8 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 ---
 
 ## 📡 Latest News
+
+- [🍏 Transitus Fluvii Sigil (August 12, 2025）](https://github.com/ravensgate-tux/passing_river/blob/main/README.md)
 - [🍏 Eris Pentacle Visualization（August 11, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Eris_pentacle_visualization_training.md)
 - [🍏 Apple Melting Contemplation of Eris（August 10, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/apple_melting_contemplation_of_eris.md)
 - [🍏 Apple Contemplation of Eris（August 9, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/discordian_apple_contemplation.md)
