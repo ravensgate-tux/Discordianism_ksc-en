@@ -75,11 +75,11 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
   <li>🐐 <a href="https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md">Ganesha morphing (Phil Hine) - translated and notes by KSC</a></li>
 </ul>
 
-- [Earth Inferno (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
-- [A Book of Satyrs (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
-- [The Book of Pleasure (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
-- [The Focus of Life (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md)
-- [Anathema of Zos (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
+- [🎨 Earth Inferno (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
+- [🎨 A Book of Satyrs (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
+- [🎨 The Book of Pleasure (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
+- [🎨 The Focus of Life (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md)
+- [🎨 Anathema of Zos (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
 - [🍏 Invoking Eris Ritual (August 12, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/ritual_invoking_eris.md)
 - [🍏 Power of One Ritual foe Eris (August 11, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/ritual_power_of_one_ish.md)
   
