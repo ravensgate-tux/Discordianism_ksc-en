@@ -81,6 +81,7 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
 - [The Focus of Life (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md)
 - [Anathema of Zos (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
 - [🍏 Invoking Eris Ritual (August 12, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/ritual_invoking_eris.md)
+- [🍏 Power of One Ritual foe Eris (August 11, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/ritual_power_of_one_ish.md)
   
 ---
 
