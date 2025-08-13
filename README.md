@@ -24,7 +24,7 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 
 <div align="center">
 The Eightfold Path of Discordian Soul Evolution🌀
-<img src="stages-Ericsian-soul.png" width="800">
+<img src="stages-Ericsian-soul-bw.png" width="800">
 <br>
 </div>
 <br>
