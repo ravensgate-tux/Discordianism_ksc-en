@@ -4,15 +4,6 @@
 Welcome to the "Discordian Magick Archive", a repository inspired by the spirit of Eris and POEE.  
 Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharing Discordian ideas and practices.  
 
-> "The jest is true, the truth's a jest — and all the rest's a lovely mess." — Discordian maxim by KSC
-
-<div align="center">
-<img src="stages-Ericsian-soul.png" width="800">
-<br>
-The Eightfold Path of Discordian Soul Evolution🌀
-</div>
-<br>
-
 <div align="right">
 <img src="ksc.png" width="100">
 </div>
@@ -24,6 +15,15 @@ The Eightfold Path of Discordian Soul Evolution🌀
 👉 Spare A vs Spare B: Investigating a Divided Legacy (English)
 </a>
 </div>
+
+> "The jest is true, the truth's a jest — and all the rest's a lovely mess." — Discordian maxim by KSC
+
+<div align="center">
+<img src="stages-Ericsian-soul.png" width="800">
+<br>
+The Eightfold Path of Discordian Soul Evolution🌀
+</div>
+<br>
 
 ---
 
