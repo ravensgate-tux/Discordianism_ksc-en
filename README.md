@@ -16,8 +16,6 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 </a>
 </div>
 
-> "The jest is true, the truth's a jest — and all the rest's a lovely mess." — Discordian maxim by KSC
-
 <div align="center">
 <img src="stages-Ericsian-soul.png" width="800">
 <br>
