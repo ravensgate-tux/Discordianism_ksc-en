@@ -16,6 +16,8 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 </a>
 </div>
 
+<br><br><br>
+
 <div align="center">
 <img src="stages-Ericsian-soul.png" width="800">
 <br>
