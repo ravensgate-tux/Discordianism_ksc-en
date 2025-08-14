@@ -32,7 +32,7 @@ The Eightfold Path of Discordian Soul Evolution🌀
 ---
 
 ## 📡 Latest News
-
+- [🍏 LIBER SPAGHETTI (August 15, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/LIBER_SPAGHETTI_TOC.md)
 - [🍏 Transitus Fluvii Sigil (August 12, 2025）](https://github.com/ravensgate-tux/passing_river/blob/main/README.md)
 - [🍏 Eris Pentacle Visualization（August 11, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Eris_pentacle_visualization_training.md)
 - [🍏 Apple Melting Contemplation of Eris（August 10, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/apple_melting_contemplation_of_eris.md)
