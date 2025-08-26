@@ -35,6 +35,7 @@ One begins in the manner of A.O.S., by gazing into the sigil until the boundarie
 
 ## 📡 Latest News
 
+- [🌀 Daruma Sigil is released - English (August 26, 2025)](https://github.com/ravensgate-tux/daruma_sigil/blob/main/README.md)
 - [📺 The Channel of the Unknown Sorcerer - YouTube (August 24, 2025) ](https://www.youtube.com/@ravensgate-v5s)
 - [🍏 LIBER SPAGHETTI (August 15, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/LIBER_SPAGHETTI_TOC.md)
 - [🍏 Transitus Fluvii Sigil (August 12, 2025）](https://github.com/ravensgate-tux/passing_river/blob/main/README.md)
