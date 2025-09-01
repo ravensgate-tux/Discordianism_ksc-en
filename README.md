@@ -5,7 +5,7 @@ Welcome to the "Discordian Magick Archive", a repository inspired by the spirit 
 Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharing Discordian ideas and practices.  
 
 <div align="right">
-<img src="ksc1.png" width="200"><br>
+<img src="KSC_Spaghetti.png" width="200"><br>
 </div>
 <br>
 
