@@ -49,7 +49,7 @@ One begins in the manner of A.O.S., by gazing into the sigil until the boundarie
 <br>
 
 
-- [🍏 Daruma Magic ver.1（August 31, 2025）](daruma-magic-jp.md)
+- [🍏 Daruma Magic ver.1（August 31, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/daruma-magic-jp.md)
 - [🍏 Link to POEE Priest's no+e launched (August 31, 2025)](https://note.com/tramal)
 - [🍏 Sigil Making Without Removing Duplicate Letters（August 29, 2025）](https://github.com/ravensgate-tux/sigil_duplicates/blob/main/README.md)
 - [🌀 Daruma Sigil is released - English (August 26, 2025)](https://github.com/ravensgate-tux/daruma_sigil/blob/main/README.md)
