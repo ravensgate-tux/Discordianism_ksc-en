@@ -36,6 +36,19 @@ One begins in the manner of A.O.S., by gazing into the sigil until the boundarie
 ## 📡 Latest News
 
 
+- 🍏 Non-periodical: Apple Newspaper launch（September 1, 2025)
+
+<div align="center">
+<img src="zen1.png" width="300">
+</div>
+<br>
+
+<div align="center">
+<img src="zen2.png" width="300">
+</div>
+<br>
+
+
 - [🍏 Link to POEE Priest's no+e launched (August 31, 2025)](https://note.com/tramal)
 - [🍏 Sigil Making Without Removing Duplicate Letters（August 29, 2025）](https://github.com/ravensgate-tux/sigil_duplicates/blob/main/README.md)
 - [🌀 Daruma Sigil is released - English (August 26, 2025)](https://github.com/ravensgate-tux/daruma_sigil/blob/main/README.md)
