@@ -36,6 +36,7 @@ One begins in the manner of A.O.S., by gazing into the sigil until the boundarie
 ## 📡 Latest News
 
 
+- [🍏 Discordianism in Two Minutes（September 4, 2025）](https://www.youtube.com/watch?v=dFjaCGx6g5Y)
 - 🍏 Non-periodical: Apple Newspaper launch（September 1, 2025)
 
 <div align="center">
