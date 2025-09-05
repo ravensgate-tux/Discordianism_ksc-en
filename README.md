@@ -23,7 +23,7 @@ Keepers of Sacred Chao (KSC) — an archive for collecting, studying, and sharin
 <br>
 
 <div align="center">
-The Eightfold Path of Discordian Soul Evolution🌀<br>
+Circulation Diagram of the Discordian Soul via Eight Directions (The Quest for the Holy Grail = The Golden Apple)<br>
 <img src="KSC-8ーZEN.png" width="600">
 <br>
 </div>
