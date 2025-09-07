@@ -35,6 +35,7 @@ One begins in the manner of A.O.S., by gazing into the sigil until the boundarie
 
 ## 📡 Latest News
 
+- [🍏 Arthurian Symbolism: Pathworking with Beardsley's Illustrations (September 7, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/king_Arthur_path.md)
 
 - [🍏 Monty Python and the Holy Grail has been added to the Discordian Film Library.（September 6, 2025）😆](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BB%E3%83%91%E3%82%A4%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%AB)
 
