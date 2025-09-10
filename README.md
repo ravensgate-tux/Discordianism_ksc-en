@@ -40,6 +40,13 @@ For Discordians🍏, the Holy Grail🏆 is “art”🧙‍♂️<br>
 
 ## 📡 Latest News
 
+- 🍏 SPARE AND CATS: Release Date (September 1, 2025)
+
+<div align="center">
+<img src="Spare-and-Cat-2025-09-13.png" width="300">
+</div>
+<br>
+
 - [🍏 The Bookcase Temple Recommendation (September 10, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/BookshelfTemple.md)
 - [🍏 Arthurian Symbolism: Pathworking with Beardsley's Illustrations (September 7, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/king_Arthur_path.md)
 
