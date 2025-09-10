@@ -141,7 +141,7 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
 ---
 
 <div align="center">
-<img src="eris-apple.png" width="200">
+<img src="eris-basics.png" width="200">
 </div>
 <br>
 
