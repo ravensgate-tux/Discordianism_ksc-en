@@ -36,6 +36,12 @@ For Discordians🍏, the Holy Grail🏆 is “art”🧙‍♂️<br>
   <img src="holygrail.png" width="400">
 </div>
 
+<div align="center">
+And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isle of the Golden Apple’.<br>
+  (Source: Joseph Campbell, The Myth of the Holy Grail)<br>
+<img src="Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg" width="400">
+</div>
+
 ---
 
 ## 📡 Latest News
