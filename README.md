@@ -46,6 +46,8 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 
 ## 📡 Latest News
 
+- [🍏 Guillermo del Toro's film Passworking (September 12, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/deltoro_pathworking.md)
+  
 - 🍏 SPARE AND CATS: Release Date (September 1, 2025)
 
 <div align="center">
