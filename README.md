@@ -47,7 +47,7 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 ## 📡 Latest News
 
 - [🍏 Release of the Japanese Wikipedia edition of Discordianism（September 17, 2025）](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8B%E3%82%BA%E3%83%A0)
-- 
+  
 - [🍏 Guillermo del Toro's film Passworking (September 12, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/deltoro_pathworking.md)
   
 - 🍏 SPARE AND CATS: Release Date (September 1, 2025)
