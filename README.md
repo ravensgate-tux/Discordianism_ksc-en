@@ -46,6 +46,8 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 
 ## 📡 Latest News
 
+- [🌀 Release of the Japanese Wikipedia entry for Lionel Snell（September 18, 2025)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%8D%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%8D%E3%83%AB)
+
 - [🐐 Release of Phil Hein's Japanese Wikipedia entry (September 18, 2025)
   ](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%8F%E3%82%A4%E3%83%B3)
   
