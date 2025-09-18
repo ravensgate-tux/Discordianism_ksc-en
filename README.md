@@ -46,6 +46,9 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 
 ## 📡 Latest News
 
+- [🐐 Release of Phil Hein's Japanese Wikipedia entry (September 18, 2025)
+  ](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%8F%E3%82%A4%E3%83%B3)
+  
 - [🍏 Release of the Japanese Wikipedia edition of Discordianism（September 17, 2025）](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8B%E3%82%BA%E3%83%A0)
   
 - [🍏 Guillermo del Toro's film Passworking (September 12, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/deltoro_pathworking.md)
