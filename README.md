@@ -87,6 +87,7 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 
 - [🍏 Daruma Magic ver.1（August 31, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/daruma-magic-jp.md)
 - [🍏 Link to POEE Priest's no+e launched (August 31, 2025)](https://note.com/tramal)
+- [✏️ English-speaking Region Report: Findings Released on Removing Duplicate Characters During Sigil Creation (August 29, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/chaos_sigils_letter_elimination.md)
 - [🍏 Sigil Making Without Removing Duplicate Letters（August 29, 2025）](https://github.com/ravensgate-tux/sigil_duplicates/blob/main/README.md)
 
 <div align="center">
