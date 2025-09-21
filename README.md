@@ -46,6 +46,9 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 
 ## 📡 Latest News
 
+
+- [🎲 Release of Dice visualization training（September 21, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%AD%E8%A6%96%E8%A6%9A%E5%8C%96%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF%E3%82%99.md)
+- 
 - [☀️ Release of the Japanese Wikipedia entry for W. E. Butler（September 18, 2025)](https://ja.wikipedia.org/wiki/W%E3%83%BBE%E3%83%BB%E3%83%90%E3%83%88%E3%83%A9%E3%83%BC)
   
 - [🌀 Release of the Japanese Wikipedia entry for Lionel Snell（September 18, 2025)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%8D%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%8D%E3%83%AB)
