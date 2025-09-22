@@ -58,7 +58,7 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
   
 - [🍏 Release of the Japanese Wikipedia edition of Discordianism（September 17, 2025）](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8B%E3%82%BA%E3%83%A0)
   
-- [🍏 Guillermo del Toro's film Passworking (September 12, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/deltoro_pathworking.md)
+- [🏰 Guillermo del Toro's film Passworking (September 12, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/deltoro_pathworking.md)
   
 - 🍏 SPARE AND CATS: Release Date (September 1, 2025)
 
@@ -68,9 +68,9 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 <br>
 
 - [🍏 The Bookcase Temple Recommendation (September 10, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/BookshelfTemple.md)
-- [🍏 Arthurian Symbolism: Pathworking with Beardsley's Illustrations (September 7, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/king_Arthur_path.md)
+- [🏰 Arthurian Symbolism: Pathworking with Beardsley's Illustrations (September 7, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/king_Arthur_path.md)
 
-- [🍏 Monty Python and the Holy Grail has been added to the Discordian Film Library.（September 6, 2025）😆](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BB%E3%83%91%E3%82%A4%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%AB)
+- [🏰 Monty Python and the Holy Grail has been added to the Discordian Film Library.（September 6, 2025）😆](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BB%E3%83%91%E3%82%A4%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%AB)
 
 - [🍏 Discordianism in Two Minutes（September 4, 2025）](https://www.youtube.com/watch?v=dFjaCGx6g5Y)
 - 🍏 Non-periodical: Apple Newspaper launch（September 1, 2025)
