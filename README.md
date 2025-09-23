@@ -46,6 +46,7 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 
 ## 📡 Latest News
 
+- [🍏 Release of the Japanese Wikipedia for the Discordian Calendar (September 24, 2025)](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E6%9A%A6)
 - 🎃 The Great Secret Art ‘Pumpkin🎃 Reading’ Begins Operation (24 September 2025) As the ultimate secret art, it will not be made public.
   
 <div align="center">
