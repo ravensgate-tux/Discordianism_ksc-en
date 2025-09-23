@@ -46,6 +46,12 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 
 ## 📡 Latest News
 
+- 🎃 The Great Secret Art ‘Pumpkin🎃 Reading’ Begins Operation (24 September 2025) As the ultimate secret art, it will not be made public.
+  
+<div align="center">
+<img src="PumpkinReading.jpg" width="300">
+</div>
+<br>
 
 - [🐝 Observation and Re-creation Work / The Dolores Method（September 23, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/dolores-observation.md)
 - [🏰 Memory Palace Workshop / The Harvey Brennan Method (September 23, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/brennan-mindpalace.md)
