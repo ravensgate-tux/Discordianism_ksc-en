@@ -46,7 +46,7 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 
 ## 📡 Latest News
 
-- [Official Website of the Japan Discordian Association Launched (September 29, 2025)](https://www.discordianism-society-japan.com/%E3%83%9B%E3%83%BC%E3%83%A0)
+- [🍏 Official Website of the Japan Discordian Association Launched (September 29, 2025)](https://www.discordianism-society-japan.com/%E3%83%9B%E3%83%BC%E3%83%A0)
 - [🍏 Release of the Japanese Wikipedia for the Discordian Calendar (September 24, 2025)](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E6%9A%A6)
 - 🎃 The Great Secret Art ‘Pumpkin🎃 Reading’ Begins Operation (September 24, 2025) As the ultimate secret art, it will not be made public.
   
