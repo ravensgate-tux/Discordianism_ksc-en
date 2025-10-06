@@ -45,6 +45,8 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 ---
 
 ## 📡 Latest News
+
+- [🧙‍♂️ Release of the SOL (Servants of the Light) Ritual System and Spiritual Education Structure（October 7, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/SOL_TSS_lineage.md)
 - [🍏 Updated sigil generation method using Transitus Fluvii (The River-Crosser) from the book of Backland（October 4, 2025）](https://github.com/ravensgate-tux/passing_river/blob/main/README.md)
 - [🧙‍♀️ Release of the Nine Knots Spell（October 3, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/nine_knots_spell.md)
 - [🍏 Official Website of the Japan Discordian Association Launched (September 29, 2025)](https://www.discordianism-society-japan.com/%E3%83%9B%E3%83%BC%E3%83%A0)
