@@ -45,6 +45,8 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 ---
 
 ## 📡 Latest News
+
+- [ 🐝 Release of the Samhain Ritual at the SOL-style Temple of Hecate（October 21, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Hecate_Samhain_SOL.md)
 - [⛩️🦊 Inari Rite of Longevity and Prosperity（October 11, 2025） ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Inari_Rite_of_Longevity_and_Prosperity.md)
 - [🎵Release of Shavin's Engram Magic (October 9, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/sherwin-engram-magick-ja.md)
 - [🧙‍♂️ Release of the SOL (Servants of the Light) Ritual System and Spiritual Education Structure（October 7, 2025）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/SOL_TSS_lineage.md)
