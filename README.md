@@ -46,6 +46,8 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 
 ## 📡 Latest News
 
+- 🗝️ [Hekate Chant Guidebook (November 29, 2025)](https://github.com/ravensgate-tux/hekate-chants/blob/main/README.md)
+
 - [🧙‍♂️ Hikaruland announces new publications: "The Book of Pleasure" and "The Curse of Zos" by Spare, the creator of sigil magic (November 16, 2025)](https://www.amazon.co.jp/%E3%82%B7%E3%82%B8%E3%83%AB%E9%AD%94%E8%A1%93%E3%81%AE%E5%89%B5%E5%A7%8B%E8%80%85%E3%82%B9%E3%83%9A%E3%82%A2%E3%81%AE-%E3%80%8E%E5%BF%AB%E6%A5%BD%E3%81%AE%E6%9B%B8%E3%80%8F%E3%80%8E%E3%82%BE%E3%82%B9%E3%81%AE%E5%91%AA%E8%A9%9B%E3%80%8F-%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%AA%E3%82%B9%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A2/dp/4867425710/ref=sr_1_3?dib=eyJ2IjoiMSJ9.InZD-2DTzoirFwcQvYAHEg.DCeKpuSucbevzNO2bMcUt3o9h1pUGJ5SXLRohlqx0eY&dib_tag=se&qid=1763304390&s=books&sr=1-3&text=%E7%9F%A5%E3%82%89%E3%82%8C%E3%81%96%E3%82%8B%E5%91%AA%E8%A1%93%E5%B8%AB)
 
 <div align="center">
@@ -180,6 +182,8 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
   <li>🐐 <a href="https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md">Ganesha morphing (Phil Hine) - translated and notes by KSC</a></li>
 </ul>
 
+
+- [🗝️ Hekate Chant Guidebook](https://github.com/ravensgate-tux/hekate-chants/blob/main/README.md)
 - [🎨 Earth Inferno (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
 - [🎨 A Book of Satyrs (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
 - [🎨 The Book of Pleasure (A.O.Spare) - translations and notes by KSC](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
