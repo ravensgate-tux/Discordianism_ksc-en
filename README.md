@@ -46,6 +46,8 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 
 ## 📡 Latest News
 
+- [ 💻 Class → Instance Design: Design Principles for Safe Symbolic Operation in Modern Magic (December 29, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/class-to-instance.md)
+  
 - [ 🐝 Yule Ritual Released at the SOL-Style Hecate Temple (December 14, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Hecate_Yule_SOL.md)
 
 - 🗝️ [Hekate Chant Guidebook (November 29, 2025)](https://github.com/ravensgate-tux/hekate-chants/blob/main/README.md)
