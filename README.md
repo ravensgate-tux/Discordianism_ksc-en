@@ -47,7 +47,7 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 ## 📡 Latest News
 
 - [ 🐝 Release of the Ostara Ritual at the SOL-Style Hecate Temple (March 17, 2026)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Ostara.md)
-- [ 🐝 Release of the Invocations Ritual at the SOL-Style Hecate Temple (January 27, 2026)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/candlemas_hecate_SOL_2026.md)
+- [ 🐝 Release of the Imbolc Ritual at the SOL-Style Hecate Temple (January 27, 2026)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/candlemas_hecate_SOL_2026.md)
 - [ 💻 Class → Instance Design: Design Principles for Safe Symbolic Operation in Modern Magic (December 29, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/class-to-instance.md)
   
 - [ 🐝 Yule Ritual Released at the SOL-Style Hecate Temple (December 14, 2025)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Hecate_Yule_SOL.md)
