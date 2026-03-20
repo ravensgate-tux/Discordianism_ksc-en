@@ -208,7 +208,7 @@ Our aim is to introduce, translate, and develop these concepts in Japanese.
 
 ## KSC Discordian Magick Archive
 **with TRANSLATIONS & NOTES by**  
-Keeper of Sacred Chaos (KSC)  
+Keeper of Sacred Chao (KSC)  
 
 Assembled by His Obliqueness the Rev DrKSC  
 on behalf of  
