@@ -50,7 +50,7 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 
 - [ ⛩️ Hexorian Movement (March 21, 2026)](https://www.amazon.co.jp/dp/B0BQZJLVK3)
 
-<div align="left">
+<div align="center">
   <img src="LS-stones.jpeg" width="300">
 </div>
 
