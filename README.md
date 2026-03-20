@@ -1,7 +1,5 @@
 # 🍏 Discordian Magick Archive 🇬🇧/🇯🇵
-
-<br>
-A curated archive exploring Tokyo urban animism and its integration with chaos magic. <br>
+<br>A curated archive exploring Tokyo urban animism and its integration with chaos magic. <br>
 
 [Japanese site is here!🇯🇵](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)<br>
 Welcome to the "Discordian Magick Archive", a repository inspired by the spirit of Eris and POEE.  
