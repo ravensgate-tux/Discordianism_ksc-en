@@ -47,7 +47,7 @@ And the Isle of Avalon, where King Arthur sleeps, is called in Celtic ‘the Isl
 
 ## 📡 Latest News
 
-
+- [ 🌃 GATES OF KHAOS/INVOKING RITUAL OF KHAOS（April 6, 2026）](https://note.com/firm_stoat6324/n/n60368929b738)
 - [ ⛩️ Hexorian Movement (March 21, 2026)](https://www.amazon.co.jp/dp/B0BQZJLVK3)
 
 <div align="center">
